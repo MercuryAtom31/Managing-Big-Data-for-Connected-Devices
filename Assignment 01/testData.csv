@@ -1,0 +1,31 @@
+Movie_ID,Title,Genre,Release_Year,Rating
+1,The Shawshank Redemption,Drama,1994,9.3
+2,The Godfather,Crime,1972,9.2
+3,The Dark Knight,Action,2008,9.0
+4,Pulp Fiction,Crime,1994,8.9
+5,The Lord of the Rings: The Return of the King,Fantasy,2003,8.9
+6,Forrest Gump,Drama,1994,8.8
+7,Inception,Sci-Fi,2010,8.8
+8,Fight Club,Drama,1999,8.8
+9,The Matrix,Sci-Fi,1999,8.7
+10,Goodfellas,Crime,1990,8.7
+11,Se7en,Thriller,1995,8.6
+12,Interstellar,Sci-Fi,2014,8.6
+13,The Silence of the Lambs,Thriller,1991,8.6
+14,Saving Private Ryan,War,1998,8.6
+15,The Green Mile,Drama,1999,8.6
+16,Gladiator,Action,2000,8.5
+17,Schindler's List,Biography,1993,8.9
+18,The Departed,Crime,2006,8.5
+19,The Prestige,Drama,2006,8.5
+20,The Lion King,Animation,1994,8.5
+21,Joker,Crime,2019,8.4
+22,Avengers: Endgame,Action,2019,8.4
+23,The Wolf of Wall Street,Biography,2013,8.2
+24,Django Unchained,Western,2012,8.4
+25,Titanic,Romance,1997,7.8
+26,The Social Network,Biography,2010,7.7
+27,The Grand Budapest Hotel,Comedy,2014,8.1
+28,Whiplash,Drama,2014,8.5
+29,Mad Max: Fury Road,Action,2015,8.1
+30,Parasite,Thriller,2019,8.6
